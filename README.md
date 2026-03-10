@@ -30,7 +30,7 @@ I'm a 1st-year BSc.IT student at PPU with a strong passion for solving complex p
 
 * 💬 Ask me about: **C++, Python, WebDev, or my latest AI art explorations!**
 
-* 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 How to reach me: **[github.com/PiyushLab21](mailto:your-email@example.com)**
 
 
 
