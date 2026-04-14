@@ -1,12 +1,4 @@
-# Hi there, I'm Piyush Kumar! 👋
 
-
-
-
-
-
-</head>
-<body><header>
 <h1>👋 Hi, I'm Piyush Kumar</h1>
 <p>🚀 Web Developer | AI Enthusiast</p>
 <button class="btn" onclick="scrollToSection('projects')">View Projects</button>
