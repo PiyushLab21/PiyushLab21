@@ -34,10 +34,7 @@
 </section><section>
 <h2>📬 Contact Me</h2>
 <div class="card">
-<input type="text" placeholder="Your Name" style="width:100%;padding:10px;margin:5px 0;border-radius:5px;border:none">
-<input type="email" placeholder="Your Email" style="width:100%;padding:10px;margin:5px 0;border-radius:5px;border:none">
-<textarea placeholder="Message" style="width:100%;padding:10px;margin:5px 0;border-radius:5px;border:none"></textarea>
-<button class="btn">Send</button>
+
 </div>
 </section><footer>
 © 2026 Piyush Kumar | Ultra Portfolio 🚀
