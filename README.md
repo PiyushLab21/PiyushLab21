@@ -40,7 +40,7 @@
 © 2026 Piyush Kumar | Ultra Portfolio 🚀
 </footer><script>
 function scrollToSection(id){
-  document.getElementById(id).scrollIntoView({behavior:'smooth'});
+
 }
 </script></body>
 </html>
