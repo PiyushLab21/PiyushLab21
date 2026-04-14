@@ -4,28 +4,7 @@
 
 
 
-<!DOCTYPE html><html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Piyush Kumar | Ultra Portfolio</title>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-<style>
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Poppins',sans-serif;background:#020617;color:#fff}
-header{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;background:linear-gradient(135deg,#020617,#0f172a)}
-h1{font-size:48px}
-p{color:#94a3b8;margin:10px 0}
-.btn{padding:10px 20px;background:#38bdf8;color:#000;border:none;border-radius:6px;cursor:pointer}
-section{padding:60px 20px;max-width:1100px;margin:auto}
-.card{background:#0f172a;padding:20px;border-radius:12px;margin:15px 0;box-shadow:0 0 20px rgba(0,0,0,0.3)}
-.skills-bar{margin:10px 0}
-.bar{height:8px;background:#1e293b;border-radius:5px;overflow:hidden}
-.progress{height:100%;background:#38bdf8}
-.projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px}
-.project{padding:15px;background:#020617;border-radius:10px}
-footer{text-align:center;padding:20px;color:#94a3b8}
-</style>
+
 </head>
 <body><header>
 <h1>👋 Hi, I'm Piyush Kumar</h1>
